@@ -1,0 +1,31 @@
+﻿Ticker;Companyia;Sector;Indústria;Continent;Pais;Moneda;Valor de mercat;PAR COMUNA (60%);PART ESPECÍFICA (40%);TOTAL;PES CARTERA
+AAPL;Apple;Information Technology;Computer Hardware;North America;United States;USD;483.100,00;5,00;3,27;8,27;4,73%
+BHP;BHP Billiton;Materials;Diversified Metals & Mining;Australia;Australia;USD;182.300,00;5,10;2,63;7,73;4,42%
+JNJ;Johnson & Johnson;Health Care;Medical Equipment & Supplies;North America;United States;USD;277.000,00;5,00;2,60;7,60;4,35%
+MSFT;Microsoft;Information Technology;Software & Programming;North America;United States;USD;343.800,00;5,15;2,45;7,60;4,35%
+ORCL;Oracle;Information Technology;Software & Programming;North America;United States;USD;185.000,00;5,24;2,22;7,47;4,27%
+CICHY;China Construction Bank;Financials;Regional Banks;Asia;China;USD;174.400,00;4,85;2,59;7,44;4,26%
+RHHBY;Roche Holding AG;Health Care;Pharmaceuticals;Europe;Switzerland;USD;253.700,00;4,95;2,12;7,07;4,04%
+GOOG;Google;Information Technology;Computer Services;North America;United States;USD;382.500,00;4,28;2,15;6,43;3,68%
+WFC;Wells Fargo;Financials;Major Banks;North America;United States;USD;261.400,00;3,94;2,47;6,41;3,67%
+CHL;China Mobile;Telecommunication Services;Telecommunications services;Asia;Hong Kong;USD;184.600,00;3,87;2,48;6,35;3,63%
+XOM;Exxon Mobil;Energy;Oil & Gas Operations;North America;United States;USD;422.300,00;3,84;2,49;6,33;3,62%
+IBM;IBM;Information Technology;Computer Services;North America;United States;USD;202.500,00;4,72;1,53;6,24;3,57%
+MRK;Merck & Co;Health Care;Pharmaceuticals;North America;United States;USD;165.800,00;4,02;2,10;6,12;3,51%
+IDCBY;ICBC;Financials;Major Banks;Asia;China;USD;215.600,00;4,46;1,59;6,05;3,46%
+META;Facebook;Information Technology;Computer Services;North America;United States;USD;159.700,00;3,67;2,38;6,05;3,46%
+PFE;Pfizer;Health Care;Pharmaceuticals;North America;United States;USD;203.900,00;4,27;1,58;5,86;3,35%
+NSRGY;Nestle;Consumer Staples;Food Processing;Europe;Switzerland;USD;239.600,00;3,54;2,29;5,83;3,34%
+TM;Toyota Motor;Consumer Discretionary;Auto & Truck Manufacturers;Asia;Japan;USD;193.500,00;2,88;2,86;5,74;3,29%
+NVS;Novartis;Health Care;Pharmaceuticals;Europe;Switzerland;USD;227.400,00;4,02;1,61;5,63;3,22%
+CVX;Chevron;Energy;Oil & Gas Operations;North America;United States;USD;227.200,00;3,93;1,69;5,62;3,22%
+KO;Coca-Cola;Consumer Staples;Beverages;North America;United States;USD;168.700,00;4,14;1,16;5,30;3,04%
+HSBC;HSBC Holdings;Financials;Major Banks;Europe;United Kingdom;USD;192.600,00;3,51;1,64;5,15;2,95%
+JPM;JPMorgan Chase;Financials;Major Banks;North America;United States;USD;229.700,00;3,50;1,61;5,12;2,93%
+BUD;Anheuser-Busch InBev;Consumer Staples;Beverages;Europe;Belgium;USD;171.200,00;3,91;1,20;5,11;2,93%
+WMT;Wal-Mart Stores;Consumer Discretionary;Discount Stores;North America;United States;USD;247.900,00;3,19;1,85;5,04;2,89%
+VZ;Verizon Communications;Telecommunication Services;Telecommunications services;North America;United States;USD;197.700,00;3,58;1,46;5,04;2,88%
+T;AT&T;Telecommunication Services;Telecommunications services;North America;United States;USD;182.700,00;2,47;1,44;3,91;2,24%
+TTE;TotalEnergies SE;Energy;Oil & Gas Operations;Europe;France;USD;149.800,00;2,45;1,40;3,85;2,20%
+BAC;Bank of America;Financials;Major Banks;North America;United States;USD;183.300,00;1,55;1,70;3,24;1,86%
+AMZN;Amazon.com;Consumer Discretionary;Internet & Catalog Retail;North America;United States;USD;157.500,00;0,73;0,39;1,12;0,64%

@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+equity_curves.csv
+*.log
+.env
+secrets.toml
