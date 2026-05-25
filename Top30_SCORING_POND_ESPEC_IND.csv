@@ -1,0 +1,25 @@
+﻿Ticker;Companyia;EPS Growth (10%);FCF Yield (10%);Debt/EBITDA (10%);EV/EBITDA (10%);TOTAL
+AAPL;Apple;0,67;1,00;0,81;0,79;3,27
+XOM;Exxon Mobil;0,39;0,29;0,94;0,87;2,49
+GOOG;Google;0,59;0,32;0,95;0,30;2,15
+MSFT;Microsoft;0,36;0,79;0,55;0,75;2,45
+JNJ;Johnson & Johnson;0,77;0,71;0,56;0,57;2,60
+RHHBY;Roche Holding AG;1,00;0,56;0,33;0,23;2,12
+WMT;Wal-Mart Stores;0,26;0,44;0,35;0,80;1,85
+NSRGY;Nestle;0,98;0,49;0,49;0,33;2,29
+NVS;Novartis;0,63;0,50;0,35;0,13;1,61
+CVX;Chevron;0,17;0,00;0,60;0,92;1,69
+PFE;Pfizer;0,00;0,78;0,26;0,54;1,58
+IBM;IBM;0,00;0,67;0,29;0,57;1,53
+VZ;Verizon Communications;0,00;0,68;0,00;0,78;1,46
+TM;Toyota Motor;1,00;0,89;0,12;0,85;2,86
+ORCL;Oracle;0,46;0,78;0,34;0,64;2,22
+CHL;China Mobile;0,12;0,35;1,00;1,00;2,48
+T;AT&T;0,00;0,55;0,10;0,78;1,44
+BHP;BHP Billiton;0,82;0,54;0,41;0,86;2,63
+BUD;Anheuser-Busch InBev;0,00;0,59;0,13;0,49;1,20
+KO;Coca-Cola;0,06;0,50;0,27;0,33;1,16
+MRK;Merck & Co;1,00;0,40;0,32;0,38;2,10
+META;Facebook;1,00;0,34;1,00;0,03;2,38
+AMZN;Amazon.com;0,00;0,12;0,26;0,00;0,39
+TTE;TotalEnergies SE;0,00;0,18;0,31;0,91;1,40
